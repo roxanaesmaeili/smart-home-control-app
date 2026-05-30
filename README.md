@@ -28,6 +28,15 @@ This is a first-year university programming project built with Python and Tkinte
 
 ![Devices](screenshots/devices_on.png)
 
+## Project Structure
+
+smart-home-control-app/
+│
+├── smart_home_app.py
+├── README.md
+├── requirements.txt
+└── screenshots/
+
 ## Author
 
 Roxana Esmaeili
