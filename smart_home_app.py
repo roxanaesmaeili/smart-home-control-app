@@ -4,6 +4,10 @@ from tkinter import simpledialog
 
 
 class SmartDevice:
+    """
+    Base class representing a smart device.
+    Provides functionality for turning devices on and off.
+    """
     def __init__(self):
         self._switched_on = False
         
@@ -89,11 +93,18 @@ class SmartSpeaker(SmartDevice):
 
 
 class SmartHome:
+    """
+    Stores and manages multiple smart devices.
+    Supports adding, removing, updating and controlling devices.
+    """
     def __init__(self, max_items=5):
         self._max_items = max_items
         self._devices = []
         
     def add_device(self, device: object):
+    """
+    Add a device to the smart home system.
+    """
         if len(self._devices) >= self._max_items:
             raise ValueError(f"Can't add more than {self._max_items} devices.")
         self._devices.append(device)
