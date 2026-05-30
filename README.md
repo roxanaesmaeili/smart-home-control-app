@@ -18,6 +18,16 @@ This is a first-year university programming project built with Python and Tkinte
 - Tkinter
 - Object-Oriented Programming
 
+## Screenshots
+
+### Main Window
+
+![Main Window](screenshots/main_window.png)
+
+### Devices
+
+![Devices](screenshots/devices_on.png)
+
 ## Author
 
 Roxana Esmaeili
