@@ -31,7 +31,7 @@ This is a first-year university programming project built with Python and Tkinte
 
 ### Devices
 
-![Devices](screenshots/devices_on.png)
+![Devices](screenshots/device_on.png)
 
 ## Project Structure
 
