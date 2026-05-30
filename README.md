@@ -29,9 +29,13 @@ This is a first-year university programming project built with Python and Tkinte
 
 ![Main Window](screenshots/main_window.png)
 
-### Devices
+### Devices on
 
 ![Devices](screenshots/device_on.png)
+
+### add_device
+
+![Devices](screenshots/add_device.png)
 
 ## Project Structure
 
