@@ -39,12 +39,14 @@ This is a first-year university programming project built with Python and Tkinte
 
 ## Project Structure
 
-smart-home-control-app/
+smart-home-control-app
 │
-├── smart_home_app.py
+├── screenshots
+│   ├── main_window.png
+│   └── devices_on.png
 ├── README.md
 ├── requirements.txt
-└── screenshots/
+└── smart_home_app.py
 
 ## What I Learned
 
